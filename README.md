@@ -1,2 +1,4 @@
-# applied_project_course_24
-MiBA Fall 2024: Applied Project in Big Data on Industrial Dataset
+# Applied Project in Big Data on Industrial Dataset
+Here you will find code content of MiBA program's course for the Fall 2023
+
+Any questions you may address to https://t.me/vasiliygarshin
